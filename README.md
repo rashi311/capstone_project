@@ -111,6 +111,6 @@ These features are aggregated daily using Pathway's windowing capability.
 
 ## 📊 Visualization Screenshot
 
-![Dynamic Pricing Visualization](images/model_output1.png) 
-![Dynamic Pricing Visualization](images/model_output2.png) 
+![Dynamic Pricing Visualization](images/model_output1.jpeg) 
+![Dynamic Pricing Visualization](images/model_output2.jpeg) 
 
