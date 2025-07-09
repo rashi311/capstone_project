@@ -1,10 +1,10 @@
-#Dynamic Parking Pricing Models - Summer Analytics Capstone Project 2025
+# Dynamic Parking Pricing Models - Summer Analytics Capstone Project 2025
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on building dynamic pricing models for urban parking spaces using real-time streaming data. We explored different models to predict and adjust parking prices based on occupancy, temporal demand, and simulated real-world factors like queue lengths and traffic levels. Implemented using Pathway, Panel, and Bokeh, this solution showcases pricing strategies that adapt to varying demand across time.
 
-##📂 Repository Contents
+## 📂 Repository Contents
 
 - Dynamic Parking Pricing.ipynb — Main Google Colab notebook with full implementation.
 
@@ -14,7 +14,7 @@ This project focuses on building dynamic pricing models for urban parking spaces
 
 
 
-##⚙️ Models Implemented
+## ⚙️ Models Implemented
 
 ### Model 1: Linear Demand-Based Pricing
 
@@ -53,7 +53,7 @@ price = 10 \
 
 - VehicleTypeWeight adjusts for larger/special vehicles.
 
-##📈 Demand Function Explanation
+## 📈 Demand Function Explanation
 
 We modeled demand primarily through occupancy rate, but in Model 2 extended it with features such as:
 
