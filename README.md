@@ -108,3 +108,9 @@ These features are aggregated daily using Pathway's windowing capability.
 - Integrating weather/road condition APIs.
 
 - Reinforcement learning for continuous price optimization.
+
+## 📊 Visualization Screenshot
+
+![Dynamic Pricing Visualization](images/model_output1.png) 
+![Dynamic Pricing Visualization](images/model_output2.png) 
+
